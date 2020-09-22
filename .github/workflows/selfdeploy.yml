@@ -26,7 +26,7 @@ jobs:
       - name: Installing Node
         uses: actions/setup-node@v2-beta
         with:
-          node-key: 12  
+          node-key: 10
 
       # instaling surge
       - name: Installing surge
