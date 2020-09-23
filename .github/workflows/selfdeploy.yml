@@ -30,7 +30,7 @@ jobs:
      
       # instaling surge
       - name: Installing surge
-        run: npm install -g surge
+        run: sudo npm install -g surge
       
       # Deploying using surge
       - name: Deploying using surge
