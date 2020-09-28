@@ -1,2 +1,2 @@
 # bootcamp20
-## [Surge site](rookie.surge.sh)
+## [Surge site](https://rookie.surge.sh/)
