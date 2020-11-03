@@ -34,5 +34,5 @@ jobs:
       
       # Deploying using surge
       - name: Deploying using surge
-        run: surge ./ rookie.surge.sh --token ${{ secrets.SURGE_TOKEN }}
+      #  run: surge ./ rookie.surge.sh --token ${{ secrets.SURGE_TOKEN }}
       
